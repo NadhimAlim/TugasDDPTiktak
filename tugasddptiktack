@@ -14,9 +14,13 @@ void show_angka(){
 
 
     cout << "   " << angka[0] << "  |   " << angka[1] << "   |   " << angka[2] << endl;
-    cout << "   " << angka[3] << "  |   " << angka[4] << "   |   " << angka[5] << endl;
-    cout << "   " << angka[6] << "  |   " << angka[7] << "   |   " << angka[8] << endl;
+    cout << "------------------------"  << endl;
 
+    cout << "   " << angka[3] << "  |   " << angka[4] << "   |   " << angka[5] << endl;
+    cout << "------------------------"  << endl;
+
+    cout << "   " << angka[6] << "  |   " << angka[7] << "   |   " << angka[8] << endl;
+    cout << "------------------------"  << endl;
 
 
 
