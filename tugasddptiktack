@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+char angka[9] = {'x','x','x','0','0','x','0','x','0'};
+void show_angka();
+
+int main() {
+
+    show_angka();
+    return 0;
+}
+
+void show_angka(){
+
+
+    cout << "   " << angka[0] << "  |   " << angka[1] << "   |   " << angka[2] << endl;
+    cout << "   " << angka[3] << "  |   " << angka[4] << "   |   " << angka[5] << endl;
+    cout << "   " << angka[6] << "  |   " << angka[7] << "   |   " << angka[8] << endl;
+
+
+
+
+}
